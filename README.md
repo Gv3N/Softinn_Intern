@@ -9,9 +9,11 @@
 - Java
 
 ### Output
-- Parity
-![Pic 1](http://githubbers.com/jivan/Github_Image/Softinn_Intern_Task01/ss_softinn_01.PNG)
-- Categorized characterd from string of text
-![Pic 2](http://githubbers.com/jivan/Github_Image/Softinn_Intern_Task01/ss_softinn_02.PNG)
-- Generate Shapes
-![Pic 3](http://githubbers.com/jivan/Github_Image/Softinn_Intern_Task01/ss_softinn_03.PNG)
+Parity
+![Pic 1](https://drive.google.com/file/d/1lKyMoN8KACS2drhqrmIE9vc6YkHFPSWz/view?usp=sharing)
+
+Categorized characterd from string of text
+![Pic 2](https://drive.google.com/file/d/1_n3DkVfmmjMqlGzm8vDuR1Y7QSgT2cv5/view?usp=sharing)
+
+Generate Shapes
+![Pic 3](https://drive.google.com/file/d/11EEqu5eSSJP61HESVj2zEI-FvbFVmcjb/view?usp=sharing)
